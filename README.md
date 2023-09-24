@@ -106,7 +106,5 @@ For the JWT_SECRET, you can use this website to generate one, [jwtgenerator](htt
 Run the development server using `yarn dev`.
 Open a supported web browser and navigate to http://localhost:3000.
 
-## Examples
-
-![Alt 1](https://github.com/jedpep/Kraken-better-spotify/blob/main/20230924_051216.jpg?raw=true)
+## Example
 ![Alt 2](https://github.com/jedpep/Kraken-better-spotify/blob/main/20230924_151850.jpg?raw=true)
