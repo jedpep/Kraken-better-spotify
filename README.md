@@ -2,6 +2,8 @@
 
 Enables users to display their currently playing song/podcast on their Kraken LCD devices.
 
+Took inspiration from [this reddit post](https://www.reddit.com/r/NZXT/comments/po2bjy/made_a_concept_for_how_spotify_would_look_on_the/)
+
 ## Installation
 
 To run this, you will need to have [Node.js](https://nodejs.org/en) and [Yarn](https://yarnpkg.com/) installed on your computer.
