@@ -101,5 +101,7 @@ SPOTIFY_CLIENT_ID=<your-client-id>
 SPOTIFY_CLIENT_SECRET=<your-client-secret>
 ```
 
+For the JWT_SECRET, you can use this website to generate one, [jwtgenerator](https://www.javainuse.com/jwtgenerator)
+
 Run the development server using `yarn dev`.
 Open a supported web browser and navigate to http://localhost:3000.
