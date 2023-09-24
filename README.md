@@ -4,7 +4,7 @@ Enables users to display their currently playing song/podcast on their Kraken LC
 
 Took inspiration from [this reddit post](https://www.reddit.com/r/NZXT/comments/po2bjy/made_a_concept_for_how_spotify_would_look_on_the/)
 
-Made this cuz i didn't like the default spotify one on nzxt cam
+Made this cuz i didn't like the default spotify one on nzxt cam (i just changed the css from the default one)
 
 ## Installation
 
